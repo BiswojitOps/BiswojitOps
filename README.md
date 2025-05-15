@@ -76,16 +76,16 @@
 
   <details>
   <summary><b>📈 My Top Languages</b></summary>
-
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biswojit01&theme=aura" alt="biswojit01" 
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biswojit01&theme=aura" alt="biswojit01" /></p>
+   
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biswojitops&theme=aura" alt="biswojitops" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biswojitops&theme=aura" alt="biswojitops" /></p>
 </details> 
 
   </details>
     <details>
   <summary><b>📈 My Contributions</b></summary>
    
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biswojit01&theme=great_gatsby" alt="biswojit01" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biswojitops&theme=great_gatsby" alt="biswojitops" /></p>
  
 
 </details>
