@@ -53,6 +53,9 @@
   <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
   </a>
+  <a href="https://nginx.org/" target="_blank" >
+    <img src="https://img.icons8.com/?size=48&id=t2x6DtCn5Zzx&format=png"  height="80" /> 
+  </a>
   
   ### Monitoring
   
