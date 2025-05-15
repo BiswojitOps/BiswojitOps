@@ -70,7 +70,7 @@
  <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
    
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=biswojit01&theme=2077" alt="biswojit01" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=biswojitops&theme=2077" alt="biswojitops" /></p>
 
 </details>
 
