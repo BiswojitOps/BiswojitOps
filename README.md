@@ -12,7 +12,7 @@
   <br/>
 </p>
 
- <p align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lyart-one.vercel.app?user=biswojitops&theme=vue-dark" alt="GitHub Streak" /></a>
+ <p align="center"> <a href="https://git.io/streak-stats"> <img align="center" src="https://github-readme-streak-stats-lyart-one.vercel.app?user=biswojitops&theme=vue-dark" alt="GitHub Streak" /></a>
  <!-- <p align="center"> <a href="https://git.io/streak-stats"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=biswojitops&theme=algolia" alt="biswojitops" /></p> -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=biswojitops&theme=algolia" alt="GitHub Streak" /></a> -->
 
