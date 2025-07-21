@@ -122,5 +122,5 @@
 
 
 #### Thanks for visiting :heart:
-![](https://komarev.com/ghpvc/?username=BiswojitOps&color=orange)
+![](https://komarev.com/ghpvc/?username=BiswojitOps&color=orange&abbreviated=true)
 <!-- ![VisitorCount](https://profile-counter.glitch.me/BiswojitOps/count.svg)-->
