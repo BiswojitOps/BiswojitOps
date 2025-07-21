@@ -122,4 +122,5 @@
 
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/BiswojitOps/count.svg)
+![](https://komarev.com/ghpvc/?username=BiswojitOps&color=green)
+<!-- ![VisitorCount](https://profile-counter.glitch.me/BiswojitOps/count.svg)-->
